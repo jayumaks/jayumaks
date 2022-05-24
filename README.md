@@ -53,7 +53,7 @@ Heya! I'm Oluwashola Umakhihe,a front-end web developer, cloud practitioner and 
 </p>
 <br>
 
-[![jayumaks' Activity Graph](https://activity-graph.herokuapp.com/graph?username=jayumaks&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+[![jayumaks' Activity Graph](https://activity-graph.herokuapp.com/graph?username=jayumaks&custom_title=jayumaks%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
 
 ------
 
