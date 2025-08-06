@@ -47,7 +47,7 @@ Heya! I'm Oluwashola Umakhihe,a front-end web developer, cloud practitioner and 
 <br/>
 <p align="left">
   <a href="https://jayumaks.dev/">
-  <img width="49.5%" src="[https://github-readme-stats.vercel.app/api?username=jayumaks&show_icons=true&theme=gruvbox&hide_border=true](https://github-readme-stats.vercel.app/api?username=jayumaks&show_icons=true&theme=gruvbox&hide_border=true)" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jayumaks&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayumaks&theme=gruvbox&hide_border=true" />
   </a>
 </p>
