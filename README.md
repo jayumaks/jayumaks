@@ -34,11 +34,11 @@ Heya! I'm Oluwashola Umakhihe,a front-end web developer, cloud practitioner and 
 
 
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
-</div>
+</div> -->
 
 
 
